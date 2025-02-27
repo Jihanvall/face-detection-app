@@ -1,7 +1,7 @@
 # 🖼️ Face Detection App  
 
 🔍 A simple **Face Detection App** using **OpenCV** and **Docker**.  
-It detects faces in images and videos easily!  
+It detects faces in images!  
 
 ## 🚀 Features  
 ✅ Automatically detects faces in images
