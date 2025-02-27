@@ -4,7 +4,7 @@
 It detects faces in images and videos easily!  
 
 ## 🚀 Features  
-✅ Automatically detects faces in images & videos 📸  
+✅ Automatically detects faces in images
 ✅ Uses **OpenCV** for image processing 🧠  
 ✅ Can be run using **Docker** 🐳  
 ✅ Lightweight and easy to use 💡  
